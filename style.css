@@ -754,7 +754,7 @@ body {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .award-card {
         flex: 0 0 calc(50% - 12px); /* 2 карточки на крупных мобильных */
     }
